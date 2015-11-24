@@ -28,3 +28,6 @@
 * 特点：使用Pjax技术实现对SPA的针对性SEO，尽可能解决SPA在SEO上得不足
 * 技术点：
 * 项目地址：https://github.com/dingyiming/demo-Blog5-SPA-SEO
+
+### 博客系列练习代码汇总图
+![博客](https://github.com/dingyiming/demo-Blog/blob/master/全部Blog练习实例.png)
